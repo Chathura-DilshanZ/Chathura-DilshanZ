@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Chathura-DilshanZ
 - 👀 I’m interested in ...cloud computing , cyber security
-- 🌱 I’m currently learning ... Industrial information Technology 
+- 🌱 I’m currently learning ... Industrial Information Technology 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
