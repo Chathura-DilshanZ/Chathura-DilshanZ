@@ -1,13 +1,14 @@
 <h1 align="center">Hi 👋, I'm Chathura Dilshan</h1>
+<hr>
 
 - 👀 I’m interested in ...cloud computing , cyber security
 - 🌱 I’m currently learning ... Java | PHP | C | JS ;
 - ⚡  I'm still student and interested in new Technologies
 - ⚡ I’m looking for New programming Techniques;
-
+<hr>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chathura-dilshanz&label=Profile%20views&color=0e75b6&style=flat" alt="chathura-dilshanz" /> </p>
 
-<hr>
+
 
 
 
