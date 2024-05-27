@@ -3,7 +3,7 @@
 
 - 👀 I’m interested in ...cloud computing , cyber security
 - 🌱 I’m currently learning ... Java | PHP | C | JS ;
-- ⚡  I'm IIT Student 
+- ⚡ I am currently a student in Industrial Information Technology (IIT) 
 - ⚡ I’m looking for New programming Techniques;
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chathura-dilshanz&label=Profile%20views&color=0e75b6&style=flat" alt="chathura-dilshanz" /> </p>
