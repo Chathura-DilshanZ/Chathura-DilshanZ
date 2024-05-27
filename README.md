@@ -2,7 +2,7 @@
 
 - 👀 I’m interested in ...cloud computing , cyber security
 - 🌱 I’m currently learning ... Industrial Information Technology
-- - ⚡  **I'm still student and interested in new Tecnologies**
+- ⚡  I'm still student and interested in new Tecnologies
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
