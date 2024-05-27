@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Chathura Dilshan</h1>
 
 - 👀 I’m interested in ...cloud computing , cyber security
-- 🌱 I’m currently learning ... Industrial Information Technology 
+- 🌱 I’m currently learning ... Industrial Information Technology
+- - ⚡  **I'm still student and interested in new Tecnologies**
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
@@ -12,7 +13,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chathura-dilshanz&label=Profile%20views&color=0e75b6&style=flat" alt="chathura-dilshanz" /> </p>
 
 
-- ⚡  **I'm still student and interested in new Tecnologies**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
