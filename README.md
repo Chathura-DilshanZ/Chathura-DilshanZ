@@ -18,7 +18,7 @@
 <hr>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=chathura-dilshanz&show_icons=true&locale=en&layout=compact" alt="chathura-dilshanz" /></p>
-
+<hr>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=chathura-dilshanz&show_icons=true&locale=en" alt="chathura-dilshanz" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chathura-dilshanz&" alt="chathura-dilshanz" /></p>
