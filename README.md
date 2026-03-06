@@ -15,11 +15,11 @@
 
 🚀 Interested in building **scalable and secure web applications**
 
-🌱 Currently learning **Java, PHP, JavaScript, Cloud Technologies**
+🌱 Currently learning **Java, PHP, JavaScript, and modern web technologies**
 
-🔎 Exploring **cryptography, system security, and modern software architectures**
+🔎 Exploring **system security, cryptography, and scalable application architectures**
 
-⚡ Fast learner with strong interest in **problem solving and real-world software development**
+⚡ Always eager to learn **new technologies and programming techniques**
 
 ---
 
@@ -60,42 +60,6 @@
 
 ---
 
-# 🚀 Featured Projects
-
-### 🔹 Work-Pulse – AI Smart Task Management System
-
-**Tech:** Laravel, MySQL, JavaScript, Bootstrap, Python
-
-AI-powered employee performance monitoring system with role-based dashboards (Admin, CEO, HOD, Employees).
-Includes task tracking, sentiment-based feedback, and predictive performance evaluation.
-
----
-
-### 🔹 Task Tracker – Team Collaboration Web App
-
-**Tech:** JSP, Servlets, MySQL, JavaScript, Bootstrap
-
-Full-stack team collaboration platform with role-based dashboards and real-time task updates.
-Includes CRUD operations, announcement modules, and responsive UI.
-
----
-
-### 🔹 Guardian+ – Childcare Management System
-
-**Tech:** PHP, MySQL, JavaScript, Bootstrap, AJAX, jQuery
-
-Childcare management platform with secure authentication and role-based dashboards to manage daycare operations efficiently.
-
----
-
-### 🔹 Waste Management System
-
-**Tech:** PHP, MySQL, HTML, CSS, Bootstrap
-
-Web application designed to automate waste collection requests and tracking with Admin, Driver, and User dashboards.
-
----
-
 # 📊 GitHub Statistics
 
 <p align="center">
@@ -109,17 +73,6 @@ Web application designed to automate waste collection requests and tracking with
 <p align="center">
 <img src="https://streak-stats.demolab.com/?user=Chathura-DilshanZ&theme=github-dark"/>
 </p>
-
----
-
-# 🎓 Certifications
-
-✔ GitHub Foundations – GitHub
-✔ MySQL Implementation Certified Associate – Oracle
-✔ AWS Cloud Essentials – Amazon Web Services
-✔ Programming in Python – University of Moratuwa
-✔ Web Development – University of Moratuwa
-✔ Introduction to Data Science – Cisco Networking Academy
 
 ---
 
