@@ -87,8 +87,7 @@ I am currently seeking an opportunity to apply my technical skills, gain industr
 
 📧 Email: **[chathuraananda00@gmail.com](mailto:chathuraananda00@gmail.com)**
 
-💼 LinkedIn
-https://linkedin.com/in/chathura-ananda
+💼 LinkedIn: [linkedin.com/in/chathura-ananda](https://linkedin.com/in/chathura-ananda)
 
 🐙 GitHub
 https://github.com/Chathura-DilshanZ
