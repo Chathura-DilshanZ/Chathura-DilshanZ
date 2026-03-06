@@ -23,6 +23,14 @@
 
 ---
 
+## 🎯 Currently Looking For
+
+💼 **Software Engineering Internship Opportunities**
+
+I am currently seeking an opportunity to apply my technical skills, gain industry experience, and contribute to real-world software development projects.
+
+---
+
 ## 🛠️ Tech Stack
 
 ### Programming Languages
@@ -60,7 +68,7 @@
 
 ---
 
-# 📊 GitHub Statistics
+## 📊 GitHub Statistics
 
 <p align="center">
 
@@ -76,16 +84,16 @@
 
 ---
 
-# 📫 Connect With Me
+## 📫 Connect With Me
 
 📧 Email: **[chathuraananda00@gmail.com](mailto:chathuraananda00@gmail.com)**
 
-💼 LinkedIn:
+💼 LinkedIn
 https://linkedin.com/in/chathura-ananda
 
-🐙 GitHub:
+🐙 GitHub
 https://github.com/Chathura-DilshanZ
 
 ---
 
-⭐ *Always open to learning, collaboration, and opportunities in Software Engineering.*
+⭐ *Open to collaboration and Software Engineering Internship opportunities.*
