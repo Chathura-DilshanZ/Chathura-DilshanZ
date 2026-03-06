@@ -72,9 +72,9 @@ I am currently seeking an opportunity to apply my technical skills, gain industr
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Chathura-DilshanZ&show_icons=true&theme=github_dark" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Chathura-DilshanZ&show_icons=true&theme=github_dark&hide_border=true" height="170"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chathura-DilshanZ&layout=compact&theme=github_dark" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chathura-DilshanZ&layout=compact&theme=github_dark&hide_border=true" height="170"/>
 
 </p>
 
